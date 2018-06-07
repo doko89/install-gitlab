@@ -17,7 +17,7 @@ This is playbook to deploy github ee on your server
 ### Note
 ---------
 if ram less than 1GB
-you can add create-swap role on playbook [create-swap](https://github.com/doko89/ansible-create-swap.git)
+you can add create-swap role on playbook [create-swap](https://github.com/doko89/create-swap.git)
 
 
 ###
