@@ -12,6 +12,15 @@ This is playbook to deploy github ee on your server
     - install-gitlab
 ```
 
+## Example env.yml
+```
+domain: repo.local.dev
+
+letsencrypt: false
+email: admin@mail.com
+
+```
+
 
 
 ### Note
