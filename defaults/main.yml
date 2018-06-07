@@ -1,0 +1,5 @@
+domain: dev.gitlab.epic
+
+##
+letsencrypt: false
+email: admin@mail.com
